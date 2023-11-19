@@ -8,6 +8,8 @@
   extensibility and ux.
 </p>
 
+<h6 align="center"><bold>Supported by <a href="https://github.com/LeviathanCorporation/">LC</a></bold></h6>
+
 <h2 align="center">
   Projects
 </h2>
